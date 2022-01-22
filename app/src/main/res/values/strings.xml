@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="empty_city_error">Please enter a city.</string>
+    <string name="sample_city">London</string>
+    <string name="submit">Submit</string>
+    <string name="temparature_condition">The temparature is %1$s and the condition is %2$s </string>
+    <string name="unknown_error">Unknown error</string>
+</resources>
